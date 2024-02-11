@@ -6,5 +6,6 @@
 3. [Diagonalising a matrix](https://www.youtube.com/watch?v=zEoHJfiQvt8)
 4. [Power of matrices](https://www.youtube.com/watch?v=vCIpPEOmf40)
 5. [Inverse Matrix 2x2 Example](https://www.youtube.com/watch?v=aiBgjz5xbyg&t=7s)
+6. [Inverse Matrix 3x3 Example](https://www.youtube.com/watch?v=Fg7_mv3izR0)
 
 [A useful online calculator](https://matrixcalc.org/vectors.html)

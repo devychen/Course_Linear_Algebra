@@ -7,5 +7,6 @@
 4. [Power of matrices](https://www.youtube.com/watch?v=vCIpPEOmf40)
 5. [Inverse Matrix 2x2 Example](https://www.youtube.com/watch?v=aiBgjz5xbyg&t=7s)
 6. [Inverse Matrix 3x3 Example](https://www.youtube.com/watch?v=Fg7_mv3izR0)
+7. [EA=U](https://youtu.be/Nxs_OARoUgE?si=iZkOl0X4zKKmw3-i)
 
 [A useful online calculator](https://matrixcalc.org/vectors.html)
